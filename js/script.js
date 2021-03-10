@@ -271,7 +271,7 @@ document.addEventListener("click", (e) => {
     document.querySelector(".popup-overlay").remove();
   }
 });
-
+0;
 // Set Function Scroll To View
 function scrollToView(elements) {
   elements.forEach((link) => {
